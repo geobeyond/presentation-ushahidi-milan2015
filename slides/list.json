@@ -1,1 +1,113 @@
-["index.md"]
+[
+    {
+        "filename": "index.md",
+        "attr": {
+            "data-background": "/css/img/bg.png"
+        }
+    },
+    {
+        "filename": "who-we-are.md",
+        "attr": {
+            "data-background": "/css/img/bg.png"
+        }
+    },
+    [
+        {
+            "filename": "geoavalanche.md",
+            "attr": {
+                "data-background": "/css/img/bg.png"
+            }
+        },
+        {
+            "filename": "geoavalanche-1.md",
+            "attr": {
+                "data-background": "/css/img/bg.png"
+            }
+        },
+        {
+            "filename": "geoavalanche-2.md",
+            "attr": {
+                "data-background": "/css/img/bg.png"
+            }
+        },
+        {
+            "filename": "geoavalanche-3.md",
+            "attr": {
+                "data-background": "/css/img/bg.png"
+            }
+        },
+        {
+            "filename": "geoavalanche-4.md",
+            "attr": {
+                "data-background": "/css/img/bg.png"
+            }
+        }
+    ],
+    [
+        {
+           "filename": "ushahidi.md",
+            "attr": {
+                "data-background": "/css/img/bg.png"
+            }
+        },
+        {
+           "filename": "ushahidi-1.md",
+            "attr": {
+                "data-background": "/css/img/bg.png"
+            }
+        },
+        {
+           "filename": "ushahidi-2.md",
+            "attr": {
+                "data-background": "/css/img/bg.png"
+            }
+        },
+        {
+           "filename": "ushahidi-3.md",
+            "attr": {
+                "data-background": "/css/img/bg.png"
+            }
+        },
+        {
+           "filename": "ushahidi-4.md",
+            "attr": {
+                "data-background": "/css/img/bg.png"
+            }
+        }
+    ],
+    {
+        "filename": "geoavalanche-2.html"
+    },
+    {
+       "filename": "mobile-app.md",
+        "attr": {
+            "data-background": "/css/img/bg.png"
+        }
+    },
+    [
+        {
+           "filename": "issues-and-migration.md",
+            "attr": {
+                "data-background": "/css/img/bg.png"
+            }
+        },
+        {
+           "filename": "issues-and-migration-1.md",
+            "attr": {
+                "data-background": "/css/img/bg.png"
+            }
+        }
+    ],
+    {
+       "filename": "how-to-help.md",
+        "attr": {
+            "data-background": "/css/img/bg.png"
+        }
+    },
+    {
+       "filename": "thanks.md",
+        "attr": {
+            "data-background": "/css/img/bg.png"
+        }
+    }
+]
